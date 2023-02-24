@@ -5,8 +5,7 @@ export default class Login extends Component {
     return (
       <div>
        
-     <br />
-     <br />
+    
      <br />
      <br />
      <br />
